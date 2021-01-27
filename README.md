@@ -1,7 +1,7 @@
 # 360° SimulatorSickness Data
 Please download the dataset here:
 
-[https://doi.org/10.5281/zenodo.4090961](https://doi.org/10.5281/zenodo.4090961)
+[https://zenodo.org/record/4472672#.YBF7h-hKiUk](https://zenodo.org/record/4472672#.YBF7h-hKiUk)
 
 You will find some additional information in the dataset.
 
